@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83d76516-6b4d-4b67-a966-13327bb8ea43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SUDGYjKRSqYOaOXasGj1d46mSg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/gson-2.3.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientVagaDeEmprego">
+    <configuration name="ClientCurriculo" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientCurriculo" />
+      <module name="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientVagaDeEmprego" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientVagaDeEmprego" />
+      <module name="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientCurriculo" />
+      <item itemvalue="Application.ClientVagaDeEmprego" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83d76516-6b4d-4b67-a966-13327bb8ea43" name="Default Changelist" comment="" />
+      <created>1571609186115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571609186115</updated>
+      <workItem from="1571609191440" duration="4550000" />
+      <workItem from="1571617730276" duration="4154000" />
+      <workItem from="1571622219947" duration="2348000" />
+      <workItem from="1571675795497" duration="2697000" />
+      <workItem from="1571681742850" duration="8860000" />
+      <workItem from="1571761241564" duration="2672000" />
+      <workItem from="1571764213894" duration="12369000" />
+      <workItem from="1571797984406" duration="1551000" />
+      <workItem from="1571877443947" duration="4669000" />
+      <workItem from="1571967186154" duration="1838000" />
+      <workItem from="1571969444202" duration="525000" />
+      <workItem from="1572020919284" duration="3817000" />
+      <workItem from="1572189489096" duration="104000" />
+      <workItem from="1572189655034" duration="542000" />
+      <workItem from="1575656585605" duration="1636000" />
+      <workItem from="1576258037752" duration="2772000" />
+      <workItem from="1576261298768" duration="5293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="80" width="800" height="683" key="#HTTP_Proxy" timestamp="1576258737064">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="273" y="80" width="800" height="683" key="#HTTP_Proxy/0.27.1366.741@0.27.1366.741" timestamp="1576258737064" />
+    <state x="466" y="141" width="735" height="525" key="FileChooserDialogImpl" timestamp="1576258842620">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="141" width="735" height="525" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1576258842620" />
+    <state width="1874" height="251" key="GridCell.Tab.0.bottom" timestamp="1576286476702">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576265483652" />
+    <state width="1874" height="251" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1576286476701" />
+    <state width="1874" height="251" key="GridCell.Tab.0.center" timestamp="1576286476699">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1576265483651" />
+    <state width="1874" height="251" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1576286476699" />
+    <state width="1874" height="251" key="GridCell.Tab.0.left" timestamp="1576286476697">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1576265483637" />
+    <state width="1874" height="251" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1576286476697" />
+    <state width="1874" height="251" key="GridCell.Tab.0.right" timestamp="1576286476701">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1576265483651" />
+    <state width="1874" height="251" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1576286476701" />
+    <state width="1320" height="190" key="GridCell.Tab.1.bottom" timestamp="1576264161573">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="190" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1576264161573" />
+    <state width="1320" height="190" key="GridCell.Tab.1.center" timestamp="1576264161573">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="190" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1576264161573" />
+    <state width="1320" height="190" key="GridCell.Tab.1.left" timestamp="1576264161573">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="190" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1576264161573" />
+    <state width="1320" height="190" key="GridCell.Tab.1.right" timestamp="1576264161573">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="190" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1576264161573" />
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1576258846625">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1576258846625" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576261298605">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1576261298605" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="aCurriculoInterface.cadastrarCurriculo(g)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
